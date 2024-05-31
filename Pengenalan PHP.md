@@ -707,7 +707,7 @@ $umur = $_GET["umur"];
 ```
 
 ### Hasil
-![[Pasted image 20240601062740.png]]
+![](aset/php27.php)
 
 
 
@@ -801,7 +801,7 @@ var_dump($_POST);
 ```
 
 ### Hasil
-![[Pasted image 20240601063940.png]]
+![](aset/php30.php)
 
 #### Analisis
 
