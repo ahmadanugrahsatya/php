@@ -801,7 +801,7 @@ var_dump($_POST);
 ```
 
 ### Hasil
-![](aset/php30.png)
+![](aset/php29.png)
 
 #### Analisis
 
