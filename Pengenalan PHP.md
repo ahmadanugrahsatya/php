@@ -7,6 +7,36 @@ PHP adalah bahasa pemrograman server-side yang sering digunakan untuk mengembang
 Echo merujuk pada tindakan mereproduksi atau membagikan kembali konten yang sudah ada kepada pengikut atau audiens Anda. Misalnya, jika seseorang memposting tweet atau kiriman di platform sosial lainnya, dan Anda memutuskan untuk membagikan kembali (retweet, share, dll.) konten tersebut kepada pengikut Anda, itu disebut sebagai "echo". Praktik ini memungkinkan untuk menyebarkan informasi lebih luas atau memberi penghargaan pada konten yang dianggap relevan atau menarik.
 
 Komentar, di sisi lain, adalah respons atau tanggapan yang diberikan oleh pengguna terhadap konten yang diposting oleh pengguna lain. Ini bisa berupa pertanyaan, pendapat, dukungan, kritik, atau reaksi lainnya terhadap apa yang telah dibagikan. Komentar memungkinkan untuk berinteraksi dengan konten dan pengguna lainnya, membuka diskusi, atau memberikan umpan balik.
+
+
+
+# Penggunaan Apache Web Server
+## Cara menggunakannya 
+1. buka aplikasi xampp
+![](aset/php33.png)
+
+2. klik Explorer
+![](aset/php32.png)
+3. buka folder htdocs
+![](aset/php34.png)
+4. buat folder baru bebas apa namanya
+![](aset/php35.png)
+5. lalu buat file baru bebas apa namanya
+![](aset/php36.png)
+6. isi file nya klo sudah langsung save
+![](aset/php37.png)
+8. buka kembali aplikasi xamppnya
+![](aset/php33.png)
+9. klik start pada bagian apache
+![](aset/php40.png)
+10. buka web browser
+![](aset/php38.png)
+11. pada bagian url ketik 'localhost/nama_folder_yang_dibuat_tadi/nama_file_yang_tadi_dibuat' dan klik enter
+![](aset/php39.png)
+12. maka hasil dari file nya akan muncul
+![](aset/php41.png)
+
+
 # Program pertama
 ## Kode Program
 ```php
@@ -707,7 +737,7 @@ $umur = $_GET["umur"];
 ```
 
 ### Hasil
-![[Pasted image 20240601062740.png]]
+![](aset/php27.png)
 
 
 
@@ -801,7 +831,7 @@ var_dump($_POST);
 ```
 
 ### Hasil
-![[Pasted image 20240601063940.png]]
+![](aset/php29.png)
 
 #### Analisis
 
