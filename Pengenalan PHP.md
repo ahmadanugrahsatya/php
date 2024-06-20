@@ -13,27 +13,47 @@ Komentar, di sisi lain, adalah respons atau tanggapan yang diberikan oleh penggu
 # Penggunaan Apache Web Server
 ## Cara menggunakannya 
 1. buka aplikasi xampp
+
 ![](aset/php33.png)
 
 2. klik Explorer
+
 ![](aset/php32.png)
+
 3. buka folder htdocs
+
 ![](aset/php34.png)
+
 4. buat folder baru bebas apa namanya
+
 ![](aset/php35.png)
+
 5. lalu buat file baru bebas apa namanya
+
 ![](aset/php36.png)
+
 6. isi file nya klo sudah langsung save
+
 ![](aset/php37.png)
-8. buka kembali aplikasi xamppnya
+
+7. buka kembali aplikasi xamppnya
+
 ![](aset/php33.png)
+
 9. klik start pada bagian apache
+
 ![](aset/php40.png)
+
 10. buka web browser
+
 ![](aset/php38.png)
+
 11. pada bagian url ketik 'localhost/nama_folder_yang_dibuat_tadi/nama_file_yang_tadi_dibuat' dan klik enter
+
 ![](aset/php39.png)
+
 12. maka hasil dari file nya akan muncul
+
 ![](aset/php41.png)
 
 
